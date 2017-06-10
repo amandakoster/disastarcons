@@ -1,0 +1,23 @@
+{
+  "name": "disastarcons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "csvtojson": "^1.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandakoster/disastarcons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandakoster/disastarcons/issues"
+  },
+  "homepage": "https://github.com/amandakoster/disastarcons#readme"
+}
